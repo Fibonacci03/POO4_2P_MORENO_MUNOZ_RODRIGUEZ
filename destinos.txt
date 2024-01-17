@@ -1,0 +1,7 @@
+Río de Janeiro,Brasi
+Toronto,Canada
+Cali,Colombia
+México,México
+...
+
+agregar más datos, procure que sean destinos de paises que esten en el archivo de promociones y otros no.

@@ -1,0 +1,5 @@
+número de vuelo, origen, destino, duración (en horas), hora de salida, hora de llegada, código de avión y precio.
+AV8384,Guayaquil,Barcelona,20,03:30,05:25,Airbus A319,653.06
+AV8385,Quito,Río de Janeiro,8,07:30,15:30,Airbus A320,800.50
+AV8386,Cuenca,Cali,5,10:30,15:30,Airbus A321,754.55
+AV8387,Cuenca,México,8,12:30,20:30,Airbus A322,810.30

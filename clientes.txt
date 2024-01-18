@@ -1,0 +1,5 @@
+cédula, nombre, apellido, usuario y contraseña
+0952433142,Ricardo,Muñoz,rimp,ricardo123
+0952444142,Allan,Rodriguez,allserod,allan123
+0952455142,Joseph,Moreno,josemor,joseph123
+0952466142,Veronica,Duarte,verod,veronica123

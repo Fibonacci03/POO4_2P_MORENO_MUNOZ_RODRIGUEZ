@@ -1,6 +1,12 @@
+clases\Pagable.class
+clases\Reserva.class
+PROYECTO\SecondaryController.class
+clases\FormaPago.class
+clases\Destino.class
 clases\Tarifa.class
 module-info.class
 PROYECTO\App.class
+clases\Pago.class
 PROYECTO\PrimaryController.class
-PROYECTO\SecondaryController.class
-clases\Destino.class
+clases\Vuelo.class
+clases\Cliente.class
